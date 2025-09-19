@@ -1,1 +1,0 @@
-export default function Page(){return <h1>Energy4All</h1>}
